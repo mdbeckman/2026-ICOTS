@@ -1,5 +1,5 @@
-# 2026 International Conference on Technology in Collegiate Mathematics
+# 2026 International Conference on Teaching Statistics
 
-Materials presented during a keynote at the 2026 International Conference on Technology in Collegiate Mathematics in Houston TX.
+Materials presented at the 2026 International Conference on Teaching Statistics in Brisbane, QLD, Australia.
 
-Here's a landing page for the talk and associated materials: <https://mdbeckman.github.io/2026-ICTCM/>
+Here's a landing page for the associated sessions and materials: <https://mdbeckman.github.io/2026-ICOTS/>
