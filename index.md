@@ -33,6 +33,8 @@ output:
 
 *Abstract.* High-quality assessment tools are important for measuring important learning outcomes, studying the impact of pedagogical interventions, and tracking student progress. For decades, statistics education researchers have successfully developed assessments following a rigorous protocol of faculty input, item development, cognitive interviews, and classroom testing. While developing a similar assessment for data science education research, an experienced research team failed to achieve the quality of psychometric properties required of a rigorous assessment. This study explores potential causes by highlighting features that differentiate data science and statistics assessment and points toward how researchers may need to develop assessment instruments that support data science education research.
 
+- [Slides (link)](https://docs.google.com/presentation/d/1TO6hhgaHUrt9SW6loZEj69U_S_ZtzUGqMkXZIM2nqhk/edit?usp=sharing)
+
 
 ## Contact
 
